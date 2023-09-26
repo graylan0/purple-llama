@@ -1,0 +1,9 @@
+{
+    "mechanic": "How would a mechanic describe this? {text}",
+    "chef": "How would a chef describe this? {text}",
+    "teacher": "How would a teacher describe this? {text}",
+    "doctor": "How would a doctor describe this? {text}",
+    "artist": "How would an artist describe this? {text}",
+    "bill_payment": "How would a financial advisor describe paying this bill? {text}"
+  }
+  
