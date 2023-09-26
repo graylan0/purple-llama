@@ -72,7 +72,3 @@ If you'd like to contribute, please fork the repository and make changes as you'
 ## License
 
 This project is open-source and available under GPL2
-
----
-
-Feel free to modify this README to better suit your project's specific needs.
